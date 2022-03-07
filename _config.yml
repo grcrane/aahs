@@ -2,10 +2,10 @@
 
 pages_list:  
   Home: '/'  
-  Privacy: '/privacy.html'
-  Support: '/support.html'
+  About Us: '/aboutus.html'
+  Class List: '/classlist.html'
 
-title: Qzaar Ltd.
+title: AAHS Class of '63'
 
 # Build settings
 
