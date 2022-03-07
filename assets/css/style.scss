@@ -94,33 +94,33 @@ nav.navbar > div.container-fluid {
 } 
 /* ============ small devices .end// ============ */
 
-body {
+body.twocolumn {
   max-width: 1200px;
   margin: 0 auto;
 }
 
-#page {
+body.twocolumn #page {
   display: flex;
 } 
 
-#sideBar {
+body.twocolumn #sideBar {
   width: 20%;
   padding: 10px;
   background: #eee;
 }
 
-#theContent {
+body.twocolumn #theContent {
   width: 80%;
   min-height: 300px;
   padding: 10px; 
 }
 
-#content {
+body.twocolumn #content {
   flex: 1 0 auto;
   /* enable grow, disable shrink */
 }
 
-main#content {
+body.twocolumn main#content {
   padding: 20px;
   max-width: unset;
 }
