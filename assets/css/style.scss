@@ -94,18 +94,31 @@ nav.navbar > div.container-fluid {
 } 
 /* ============ small devices .end// ============ */
 
-#page {
-  display: flex;
-  height: calc( 100vh - 30px);
-  /* calculate the height. Header is 30px */
+
+html {
+  /*background: #eee*/
 }
 
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+}
+
+#page {
+  display: flex;
+} 
+
 #sideBar {
-  width: 19%;
+  width: 20%;
+  padding: 10px;
+  background: #eee;
 }
 
 #theContent {
-  width: 78%;
+  width: 80%;
+  min-height: 300px;
+  padding: 10px; 
 }
 
 #content {
@@ -114,6 +127,6 @@ nav.navbar > div.container-fluid {
 }
 
 main#content {
-  padding: 0;
+  padding: 20px;
   max-width: unset;
 }
