@@ -101,15 +101,19 @@ nav.navbar > div.container-fluid {
 }
 
 #sideBar {
-  width: 100px;
+  width: 19%;
+}
+
+#theContent {
+  width: 78%;
 }
 
 #content {
-  background: blue;
   flex: 1 0 auto;
   /* enable grow, disable shrink */
 }
 
 main#content {
   padding: 0;
+  max-width: unset;
 }
