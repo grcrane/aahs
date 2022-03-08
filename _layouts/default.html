@@ -37,8 +37,9 @@
       </div>
       <div class="address-lines">
         <ol>
-          <li>line 1</li>
-          <li>line 2</li>
+          {% for addr in site.address %}  
+            <li>{{ addr[1] }}
+          {% endfor %}
         </ol>
       </div>
     </header>

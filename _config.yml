@@ -11,6 +11,10 @@ logo: AAHS63
 address1: 7220 Hashley Road
 address2: Manchester, MI 48158
 
+address:
+  Line1: 7220 Hashley Road
+  Line2: Manchester, MI 48158
+
 # Build settings
 
 markdown: kramdown
