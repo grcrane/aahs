@@ -199,6 +199,10 @@ header h2 {
  background-image: unset;
 }
 
+img.alignright {
+  float: right;
+}
+
 body.twocolumn #page {
   display: flex;
 } 
