@@ -5,8 +5,11 @@ pages_list:
   About Us: '/aboutus.html'
   Class List: '/classlist.html'
 
-title: AAHS63
-subtitle: Class of 1963
+title: Ann Arbor High School Pioneers
+description: Class of 1963
+logo: AAHS63
+address1: 7220 Hashley Road
+address2: Manchester, MI 48158
 
 # Build settings
 
