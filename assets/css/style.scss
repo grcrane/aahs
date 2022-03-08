@@ -163,7 +163,10 @@ header div.address-lines {
 
 header div.address-lines ol {
   list-style-type: none;
-  line-height: 1em;
+  text-align: right;
+  font-style: italic;
+  font-size: 11px;
+  line-height: 13px;
 }
 
 header h2 {
