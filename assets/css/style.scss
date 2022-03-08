@@ -10,7 +10,8 @@ header .btn {
 
 header.page-header {
   padding:  2rem 5rem;
-  background-image: url('{{ site.baseurl }}/assets/images/aahs_building.jpg');
+  /*background-image: url('{{ site.baseurl }}/assets/images/aahs_building.jpg');*/
+  padding: 0;
 }
 
 
@@ -121,10 +122,6 @@ body {
 
 header.page-header {
   position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 header .project-tagline {
@@ -137,6 +134,17 @@ header a.btn {
 
 header h1.project-name {
   font-size: 2em;
+}
+
+header div.title-lines {
+  position: absolute;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
 }
 
 header h2 {
