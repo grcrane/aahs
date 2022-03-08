@@ -161,6 +161,11 @@ header div.address-lines {
   right: 10px;
 }
 
+header div.address-lines ol {
+  list-style-type: none;
+  line-height: 1em;
+}
+
 header h2 {
   font-style: italic;
   margin: 0;
