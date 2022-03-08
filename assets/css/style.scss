@@ -115,7 +115,9 @@ body {
   background: #3f260f !important;
 }
 
-
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
 
 body.twocolumn #page {
   display: flex;
