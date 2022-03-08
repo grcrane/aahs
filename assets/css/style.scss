@@ -104,7 +104,7 @@ nav.navbar > div.container-fluid {
   }
 
   html {
-    margin-top: 0 !important;
+    margin: 0 !important;
   }
 
   .navbar { 
@@ -115,6 +115,8 @@ nav.navbar > div.container-fluid {
 /* ============ small devices .end// ============ */
 
 html {
+  margin-left: 20px;
+  margin-right: 20px; 
   margin-top: 20px;
 }
 
