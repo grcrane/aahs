@@ -96,14 +96,25 @@ nav.navbar > div.container-fluid {
 /* ============ small devices .end// ============ */
 
 html {
-  background: rgb(242, 227, 188);
   margin-top: 20px;
 }
 
 body {
   max-width: 1280px;
   margin: 0 auto;
+  background: rgb(242, 227, 188);
 }
+
+.main-content {
+  max-width: unset; 
+  background: white;
+}
+
+.navbar { 
+  border-radius: 15px 15px 0 0;
+}
+
+
 
 body.twocolumn #page {
   display: flex;
