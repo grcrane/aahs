@@ -119,6 +119,22 @@ body {
   color: rgb(255, 255, 255);
 }
 
+header.page-header {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+header .project-tagline {
+  display:  block;
+}
+
+header a.btn {
+  display: none;
+}
+
 body.twocolumn #page {
   display: flex;
 } 
