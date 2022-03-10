@@ -1,6 +1,5 @@
 ---
 post_date: 2021-09-09
-layout: post
 title: 2021 Annual Event Update
 post_slug: 2021-annual-event-update
 excerpt: After a year’s hiatus, the AAHS ’63 Annual Event turned out to be a big success! This years event again held at the Travis Pointe Country Club on July 30th, 2021. We had a great turn out of 40 people.  The lunch was a Traditional Soup & Deli Sandwich Buffet with all the trimmings and a delicious corn chowder soup.
